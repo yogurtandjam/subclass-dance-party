@@ -24,8 +24,16 @@ body, a:link, a:visited, a:active{
   text-align: center;
 }
 .dancer{
-
-  border:10px solid blue;
-  border-radius:10px;
+  
   position:absolute;
 }
+
+.specialDancer{
+  position:absolute;
+}
+
+.foxy{
+  height: 80px;
+  width: relative;
+}
+
